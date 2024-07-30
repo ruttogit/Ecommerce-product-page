@@ -85,15 +85,17 @@ nav ul li a.active::after{
     padding-right: 10%;
     gap: 2rem;
 }
+/* .menu-buttons{
+    display: NONE;
+} */
 .menu-btns{
     position: absolute;
     right: 1.4rem;
     top: 1.6rem;
     width: 30px;
-}
-.menu-btns{
     display: none;
 }
+
 
 
 
